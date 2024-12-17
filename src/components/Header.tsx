@@ -12,9 +12,9 @@ export function Header() {
           </div>
           <nav>
             <ul className="flex space-x-6">
-              <li><a href="#" className="text-gray-600 hover:text-blue-600">Saúde</a></li>
-              <li><a href="#" className="text-gray-600 hover:text-blue-600">Bem-estar</a></li>
-              <li><a href="#" className="text-gray-600 hover:text-blue-600">Nutrição</a></li>
+              <li><a href="#" className="text-gray-600 hover:text-blue-600">Health</a></li>
+              <li><a href="#" className="text-gray-600 hover:text-blue-600">Well-being</a></li>
+              <li><a href="#" className="text-gray-600 hover:text-blue-600">Nutrition</a></li>
             </ul>
           </nav>
         </div>
